@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A weather application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabil-e/node-weatherApp.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "nabil-e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabil-e/node-weatherApp/issues"
+  },
+  "homepage": "https://github.com/nabil-e/node-weatherApp#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
